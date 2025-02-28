@@ -26,6 +26,8 @@ Eventify is an interactive event management app designed for both attendees and 
 - Open the app and create an account by providing the required details.
 - Choose your user type: **Organization** or **Attendee**.
 
+  ![alt text](http://url/to/img.png)
+
 ### Step 2: Sign In
 - If you already have an account, then sign in using correct credentials.
 
